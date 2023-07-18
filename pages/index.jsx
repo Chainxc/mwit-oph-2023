@@ -169,7 +169,7 @@ export default function Home({ userData }) {
         <meta property='og:title' content='MWIT Open House 2022' />
         <meta
           property='og:description'
-          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2565 ในรูปแบบออนไลน์'
+          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
         />
         <meta
           property='og:image'
@@ -183,7 +183,7 @@ export default function Home({ userData }) {
         <meta name='twitter:title' content='MWIT Open House 2022' />
         <meta
           name='twitter:description'
-          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2565 ในรูปแบบออนไลน์'
+          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
         />
         <meta
           name='twitter:image'
