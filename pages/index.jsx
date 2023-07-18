@@ -160,7 +160,7 @@ export default function Home({ userData }) {
         <title>MWIT Open House 2022</title>
         <meta
           name='description'
-          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2565 ในรูปแบบออนไลน์'
+          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
         />
 
         {/* <!-- Facebook Meta Tags --> */}
