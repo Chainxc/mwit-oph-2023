@@ -224,7 +224,7 @@ export default function Home({ userData }) {
                       layoutId={'welcome-title'}
                       className='font-CS text-3xl md:text-4xl font-bold text-bmw'
                     >
-                      Welcome Message
+                      Welcome Home
                     </motion.span>
                     <motion.span
                       layoutId={'welcome-desc'}
