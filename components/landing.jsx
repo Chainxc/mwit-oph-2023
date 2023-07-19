@@ -79,14 +79,14 @@ export default function LandingPage({ homeRef, children, ...props }) {
             >
               <div className='flex pb-2'>
                 <div className='bg-ora text-white px-2 pt-1 pb-0.5 rounded-full text-xs md:text-sm lg:text-base'>
-                  ONLINE
+                  Coming soon!
                 </div>
               </div>
               <div className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl'>
-                MWIT Open House 2023
+              MWIT Open House 2023
               </div>
               <div className='text-xl md:text-2xl lg:text-3xl'>
-                22 - 28 สิงหาคม 2566
+              วันที่ 25 และ 26 สิงหาคม 2566
               </div>
             </motion.div>
           </div>
@@ -114,9 +114,9 @@ export default function LandingPage({ homeRef, children, ...props }) {
                     type: 'spring',
                   }}
                 >
-                  New
+                  Ready
                 </motion.div>
-                <span className='whitespace-nowrap'>School Tour</span>
+                <span className='whitespace-nowrap'>ลงทะเบียน</span>
               </motion.a>
             </Link>
             <Link href={'/biovote'}>

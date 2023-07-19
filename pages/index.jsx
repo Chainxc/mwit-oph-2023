@@ -161,7 +161,7 @@ export default function Home({ userData }) {
         <meta
           name='description'
           content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
-        />
+        />  
 
         {/* <!-- Facebook Meta Tags --> */}
         <meta property='og:url' content='https://openhouse.mwit.ac.th' />
@@ -183,7 +183,7 @@ export default function Home({ userData }) {
         <meta name='twitter:title' content='MWIT Open House 2022' />
         <meta
           name='twitter:description'
-          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
+          content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2565 ในรูปแบบออนไลน์'
         />
         <meta
           name='twitter:image'
@@ -224,7 +224,7 @@ export default function Home({ userData }) {
                       layoutId={'welcome-title'}
                       className='font-CS text-3xl md:text-4xl font-bold text-bmw'
                     >
-                      Welcome Homie
+                      Welcome Message
                     </motion.span>
                     <motion.span
                       layoutId={'welcome-desc'}
