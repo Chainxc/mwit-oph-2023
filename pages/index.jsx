@@ -157,7 +157,7 @@ export default function Home({ userData }) {
     <>
       <Head>
         {/* <!-- HTML Meta Tags --> */}
-        <title>MWIT Open House 2022</title>
+        <title>MWIT Open House 2023</title>
         <meta
           name='description'
           content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
