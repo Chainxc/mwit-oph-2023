@@ -83,10 +83,10 @@ export default function LandingPage({ homeRef, children, ...props }) {
                 </div>
               </div>
               <div className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl'>
-                MWIT Open House 2022
+                MWIT Open House 2023
               </div>
               <div className='text-xl md:text-2xl lg:text-3xl'>
-                22 - 28 สิงหาคม 2565
+                22 - 28 สิงหาคม 2566
               </div>
             </motion.div>
           </div>

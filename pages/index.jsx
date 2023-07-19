@@ -157,7 +157,7 @@ export default function Home({ userData }) {
     <>
       <Head>
         {/* <!-- HTML Meta Tags --> */}
-        <title>MWIT Open House 2023</title>
+        <title>MWIT Open House 2022</title>
         <meta
           name='description'
           content='MWIT Open House 2022 เปิดบ้านโรงเรียนมหิดลวิทยานุสรณ์ พบกับกิจกรรมและนิทรรศการมากมายตลอดวันที่ 22 - 28 สิงหาคม 2566 ในรูปแบบออนไลน์'
@@ -224,7 +224,7 @@ export default function Home({ userData }) {
                       layoutId={'welcome-title'}
                       className='font-CS text-3xl md:text-4xl font-bold text-bmw'
                     >
-                      Welcome Home
+                      Welcome Homie
                     </motion.span>
                     <motion.span
                       layoutId={'welcome-desc'}
