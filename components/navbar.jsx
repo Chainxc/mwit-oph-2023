@@ -170,13 +170,13 @@ export default function Navbar({
     },
     {
       name: 'Register',
-      href: '/register',
+      href: '../pages/register',
       icon: faPenToSquare,
       auth: false,
     },
     {
       name: 'Login',
-      href: '/login',
+      href: '../pages/login',
       icon: faRightToBracket,
       auth: false,
     },
