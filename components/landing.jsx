@@ -20,7 +20,7 @@ const mainMenu = [
     href: 'https://facebook.com/MWITOpenHouse',
     disabled: false,
   },
-  {
+  /*{
     name: 'ระบบรับสมัครเข้าม.4',
     fa: false,
     icon: 'https://mwitophcdn.woyiswoy.com/img/admission.png',
@@ -34,7 +34,7 @@ const mainMenu = [
     icon: 'https://mwitophcdn.woyiswoy.com/img/sqlogofull.png',
     href: 'https://square.mwit.ac.th',
     disabled: false,
-  },
+  },*/
 ]
 
 export default function LandingPage({ homeRef, children, ...props }) {
@@ -151,7 +151,7 @@ export default function LandingPage({ homeRef, children, ...props }) {
             </Link>
           </div>
         </div>
-        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col gap-2 lg:gap-4'>
+        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col gap-8 lg:gap-4 '>
           {mainMenu.map((m, i) => (
             <Button
               m={m}
