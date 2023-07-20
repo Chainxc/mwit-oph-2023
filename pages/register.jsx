@@ -230,20 +230,17 @@ export default function Register({ userData }) {
 
           <form
             onSubmit={handleSubmit(onSubmit)}
-            className='font-IBMPlexLoop w-full max-w-md grid grid-cols-1 gap-x-3 gap-y-8'
+            className='font-IBMPlexLoop w-full max-w-md grid grid-cols-1 gap-x-3 gap-y-8 field'
           >
-            <div className='input-box'>
-              {inputData.map((d, i) => (
-                <BeautifulInput
-                  d={d}
-                  register={register}
-                  errors={errors}
-                  key={i}
-                  ud={userData}
-                />
-              ))}
-            </div>
-            
+            {inputData.map((d, i) => (
+              <BeautifulInput
+                d={d}
+                register={register}
+                errors={errors}
+                key={i}
+                ud={userData}
+              />
+            ))}
 
             <button
               type='submit'
