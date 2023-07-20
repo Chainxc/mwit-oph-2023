@@ -113,6 +113,12 @@ export default function Navbar({
       auth: null,
     },
     {
+      name: 'test',
+      href: '/tester',
+      icon: faHouse,
+      auth: null,
+    },
+    {
       name: 'Schedule',
       href: '/schedule',
       icon: faCalendarDay,
