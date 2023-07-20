@@ -151,7 +151,7 @@ export default function LandingPage({ homeRef, children, ...props }) {
             </Link>
           </div>
         </div>
-        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col gap-8 lg:gap-4 '>
+        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col justify-around lg:gap-4 '>
           {mainMenu.map((m, i) => (
             <Button
               m={m}
