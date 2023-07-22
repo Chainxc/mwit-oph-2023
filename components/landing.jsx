@@ -90,6 +90,7 @@ export default function LandingPage({ homeRef, children, ...props }) {
               </div>
             </motion.div>
           </div>
+          /*
           <div className='flex flex-wrap items-center justify-center gap-3'>
             <Link href={'/tour'}>
               <motion.a
@@ -150,8 +151,9 @@ export default function LandingPage({ homeRef, children, ...props }) {
               </motion.a>
             </Link>
           </div>
+          */
         </div>
-        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col justify-around lg:gap-4 '>
+        <div className='w-full max-w-4xl md:pb-4 mx-auto flex-none grid grid-flow-col lg:gap-4 '>
           {mainMenu.map((m, i) => (
             <Button
               m={m}
